@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Unique\bin\Debug\net6.0\Unique.exe
+C:\Users\user\source\repos\Unique\bin\Debug\net6.0\Unique.deps.json
+C:\Users\user\source\repos\Unique\bin\Debug\net6.0\Unique.runtimeconfig.json
+C:\Users\user\source\repos\Unique\bin\Debug\net6.0\Unique.dll
+C:\Users\user\source\repos\Unique\bin\Debug\net6.0\ref\Unique.dll
+C:\Users\user\source\repos\Unique\bin\Debug\net6.0\Unique.pdb
+C:\Users\user\source\repos\Unique\obj\Debug\net6.0\Unique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Unique\obj\Debug\net6.0\Unique.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Unique\obj\Debug\net6.0\Unique.AssemblyInfo.cs
+C:\Users\user\source\repos\Unique\obj\Debug\net6.0\Unique.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Unique\obj\Debug\net6.0\Unique.dll
+C:\Users\user\source\repos\Unique\obj\Debug\net6.0\ref\Unique.dll
+C:\Users\user\source\repos\Unique\obj\Debug\net6.0\Unique.pdb
+C:\Users\user\source\repos\Unique\obj\Debug\net6.0\Unique.genruntimeconfig.cache
+C:\Users\user\source\repos\Unique\obj\Debug\net6.0\Unique.csproj.AssemblyReference.cache
